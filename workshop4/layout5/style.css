@@ -1,0 +1,27 @@
+body{
+/* background-color:red;*/
+}
+div{
+    outline: 1px solid lime;
+}
+.container{
+    width: 920px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.header{
+    background-color: blue;
+    height:0px
+}
+.content{
+    background-color: blue;
+    height: 200px;
+    width: 920px;
+}
+.yellowbox{
+    background-color: yellow;
+    height: 150px;
+    width: 150px;
+    margin-left: 700px;
+    margin-top: 0px;
+}
